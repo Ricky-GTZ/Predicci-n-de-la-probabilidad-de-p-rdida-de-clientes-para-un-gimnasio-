@@ -16,7 +16,7 @@ Based on these parameters, each operator was analyzed to verify whether their me
 Classified gym customers into groups based on specific parameters and calculated the probability of churn.
 ## Impact / Achievements:
 Identified customer groups and their likelihood of contract cancellation.
-Summary of Key Insights:
+## Summary of Key Insights:
 Short contracts (<2 months) are strongly linked to cancellations.
 
 Longer membership duration (avg. 4.7 months) increases the likelihood of staying.
